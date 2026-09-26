@@ -21,13 +21,13 @@ Leveraging advanced analytics, machine learning, and business intelligence to dr
 Proven track record of:
 - **End-to-end analytics ownership** for business-critical functions (pricing, demand forecasting, workforce planning)
 - **Building production-grade analytics solutions** serving 40K+ SKUs and 15K+ employees
-- **Cloud analytics transformation** â€” migrating on-premises BI infrastructure to scalable cloud architecture
+- **Cloud analytics transformation** - migrating on-premises BI infrastructure to scalable cloud architecture
 - **Statistical & predictive modeling** improving forecasting accuracy and operational efficiency
-- **Cross-functional leadership** â€” collaborating with product, engineering, and business teams
+- **Cross-functional leadership** - collaborating with product, engineering, and business teams
 
 ### Previous Experience
 
-**Business Intelligence Analyst** â€” GE Appliances *(Feb 2024 - Jul 2026)*
+**Business Intelligence Analyst** - GE Appliances *(Feb 2024 - Jul 2026)*
 - Owned end-to-end analytics for pricing & fulfilment (demand-supply) across 40K+ SKUs
 - Built pricing intelligence solutions using Oracle EBS data integration and web-scraped competitor pricing
 - Designed Tableau dashboards for demand-supply, fulfilment, and HR analytics (15K employees)
@@ -35,12 +35,12 @@ Proven track record of:
 - Led migration from on-premises BI to cloud-based analytics architecture
 - Applied machine learning (classification, regression) to improve forecasting and decision support
 
-**Senior Analyst** â€” Tata Steel Tinplate Division *(Jul 2019 - Oct 2023)*
+**Senior Analyst** - Tata Steel Tinplate Division *(Jul 2019 - Oct 2023)*
 - Led end-to-end BI and analytics initiatives supporting strategic and operational decisions
 - Designed and maintained reporting environment with 40+ interactive Tableau dashboards
 - Conducted predictive and statistical analyses to identify performance drivers
 - Defined and tracked 20+ KPIs driving improvements in revenue and customer satisfaction
-- Collaborated with IT to implement centralized database â€” **80% reduction in manual data handling**
+- Collaborated with IT to implement centralized database - **80% reduction in manual data handling**
 
 ---
 
@@ -77,9 +77,9 @@ National Institute of Technology (NIT), Durgapur
 
 ## Certifications
 
-- **AWS Certified Data Engineer â€“ Associate**
-- **Analytics using SQL and Python** â€” Great Learning Academy
-- **IBM Analyst Professional Certificate** â€” Coursera (IBM)
+- **AWS Certified Data Engineer - Associate**
+- **Analytics using SQL and Python** - Great Learning Academy
+- **IBM Analyst Professional Certificate** - Coursera (IBM)
 
 ---
 
@@ -95,11 +95,11 @@ Location: Hyderabad, India
 
 ## What I Love Building
 
-- **Scalable Analytics Pipelines** â€” From raw data to actionable dashboards
-- **Predictive Models** â€” Machine learning solutions that drive real business impact
-- **Data-Driven Culture** â€” Empowering teams with insights and analytics literacy
-- **Cloud Analytics Architecture** â€” Modern, efficient, enterprise-grade solutions
-- **Competitive Intelligence** â€” Transforming market data into strategic advantage
+- **Scalable Analytics Pipelines** - From raw data to actionable dashboards
+- **Predictive Models** - Machine learning solutions that drive real business impact
+- **Data-Driven Culture** - Empowering teams with insights and analytics literacy
+- **Cloud Analytics Architecture** - Modern, efficient, enterprise-grade solutions
+- **Competitive Intelligence** - Transforming market data into strategic advantage
 
 ---
 
