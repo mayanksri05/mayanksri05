@@ -1,21 +1,21 @@
-# ðŸ‘‹ Hi, I'm Mayank Srivastava
+# Hi, I'm Mayank Srivastava
 
 **Senior Engineer Consultant - Data Science** @ Verizon India | **Business Intelligence & Analytics Expert**
 
-ðŸ“Š Data-driven professional with **6+ years** of experience transforming complex datasets into actionable business insights. Passionate about building scalable analytics solutions, driving data literacy, and enabling strategic decision-making across organizations.
+Data-driven professional with **6+ years** of experience transforming complex datasets into actionable business insights. Passionate about building scalable analytics solutions, driving data literacy, and enabling strategic decision-making across organizations.
 
 ---
 
-## ðŸŽ¯ Current Role
+## Current Role
 
 **Senior Engineer Consultant - Data Science**  
-ðŸ¢ Verizon India | *Aug 2026 - Present*
+Verizon India | *Aug 2026 - Present*
 
 Leveraging advanced analytics, machine learning, and business intelligence to drive value across enterprise-scale operations.
 
 ---
 
-## ðŸ’¼ Professional Background
+## Professional Background
 
 ### Senior Analytics Professional
 Proven track record of:
@@ -44,7 +44,7 @@ Proven track record of:
 
 ---
 
-## ðŸ› ï¸ Skills & Expertise
+## Skills & Expertise
 
 ### Core Analytics
 - End-to-End Analytics Ownership
@@ -63,7 +63,7 @@ Proven track record of:
 
 ---
 
-## ðŸ“š Education
+## Education
 
 **Integrated M.Tech & PhD** *(2022 - Present)*  
 Mathematical Modelling and Simulation with AI/ML  
@@ -75,7 +75,7 @@ National Institute of Technology (NIT), Durgapur
 
 ---
 
-## ðŸ† Certifications
+## Certifications
 
 - **AWS Certified Data Engineer â€“ Associate**
 - **Analytics using SQL and Python** â€” Great Learning Academy
@@ -83,17 +83,17 @@ National Institute of Technology (NIT), Durgapur
 
 ---
 
-## ðŸ”— Let's Connect
+## Let's Connect
 
-ðŸ“§ **Email:** [srivastav.mayank1996@gmail.com](mailto:srivastav.mayank1996@gmail.com)  
-ðŸ’¼ **LinkedIn:** [linkedin.com/in/mayanksrivastava-237719152](https://www.linkedin.com/in/mayanksrivastava-237719152/)  
-ðŸŒ **Portfolio:** [datascienceportfolio.io/srivastavmayank1996](https://datascienceportfolio.io/srivastavmayank1996)  
-ðŸ“± **Phone:** +91 8317072876  
-ðŸ“ **Location:** Hyderabad, India
+Email: [srivastav.mayank1996@gmail.com](mailto:srivastav.mayank1996@gmail.com)  
+LinkedIn: [linkedin.com/in/mayanksrivastava-237719152](https://www.linkedin.com/in/mayanksrivastava-237719152/)  
+Portfolio: [datascienceportfolio.io/srivastavmayank1996](https://datascienceportfolio.io/srivastavmayank1996)  
+Phone: +91 8317072876  
+Location: Hyderabad, India
 
 ---
 
-## ðŸ“Š What I Love Building
+## What I Love Building
 
 - **Scalable Analytics Pipelines** â€” From raw data to actionable dashboards
 - **Predictive Models** â€” Machine learning solutions that drive real business impact
@@ -103,7 +103,7 @@ National Institute of Technology (NIT), Durgapur
 
 ---
 
-## ðŸš€ Always Learning
+## Always Learning
 
 Currently pursuing **Ph.D. in Mathematical Modelling and Simulation with AI/ML**, combining academic rigor with practical industry expertise to solve complex problems in data science and analytics.
 
