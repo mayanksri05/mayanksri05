@@ -2,7 +2,7 @@
 
 **Senior Engineer Consultant - Data Science** @ Verizon India | **Business Intelligence & Analytics Expert**
 
-Data-driven professional with **6+ years** of experience transforming complex datasets into actionable business insights. Passionate about building scalable analytics solutions, driving data literacy, and enabling strategic decision-making across organizations.
+Data-driven professional with **7+ years** of experience transforming complex datasets into actionable business insights. Passionate about building scalable analytics solutions, driving data literacy, and enabling strategic decision-making across organizations.
 
 ---
 
